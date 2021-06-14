@@ -1,1 +1,1 @@
-window.alert("what's your fav type of coffee?");
+window.alert("Hello world!");
